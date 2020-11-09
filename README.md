@@ -21,9 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifs.com/gif/XL4GLl' />
-
-GIF created with [gifs](http://www.gifs.com).
+![Test](gif.gif)
 
 ## License
 
